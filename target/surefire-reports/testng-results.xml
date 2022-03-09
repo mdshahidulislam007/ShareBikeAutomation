@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-24T17:46:27 BDT" name="ShareBike App Automation Testing" finished-at="2022-02-24T17:47:28 BDT" duration-ms="61100">
+    <groups>
+    </groups>
+    <test started-at="2022-02-24T17:46:27 BDT" name="Login Test" finished-at="2022-02-24T17:47:28 BDT" duration-ms="61100">
+      <class name="appTestCases.TC_01_loginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:appTestCases.TC_01_loginTest@fdefd3f]" started-at="2022-02-24T17:46:27 BDT" name="setup" finished-at="2022-02-24T17:46:39 BDT" duration-ms="12821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logintest()[pri:0, instance:appTestCases.TC_01_loginTest@fdefd3f]" started-at="2022-02-24T17:46:39 BDT" name="logintest" finished-at="2022-02-24T17:47:28 BDT" duration-ms="48234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+      </class> <!-- appTestCases.TC_01_loginTest -->
+    </test> <!-- Login Test -->
+  </suite> <!-- ShareBike App Automation Testing -->
+</testng-results>
